@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LM317T.PrjPcb]
+   Generated File[LM317T_PCB.TXT]
+   Generated File[LM317T_PCB.LDP]
+   Generated File[LM317T_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:00:22 On 10.09.2025

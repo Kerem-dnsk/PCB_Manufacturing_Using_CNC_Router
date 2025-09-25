@@ -1,0 +1,14 @@
+*************************************************************
+FileName = LM317T_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : LM317T_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

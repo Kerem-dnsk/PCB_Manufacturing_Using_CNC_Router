@@ -1,0 +1,5 @@
+Added Component: Designator=D2(1N4001 Diyot)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=D2-1
+Added Pin To Net: NetName=NetC1_2 Pin=D2-2
+Added Member To Class: ClassName=LM317T_sema Member=Component D2 1N4001
