@@ -67,7 +67,7 @@ Generated G-code was executed on a CNC router to manufacture the PCB.
 
 ## 📷 Manufacturing Process
 
-(Add here)
+![Final Board](images/plaket.jpg)
 
 - PCB layout screenshots
 - FlatCAM toolpath images
