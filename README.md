@@ -65,17 +65,6 @@ Generated G-code was executed on a CNC router to manufacture the PCB.
 
 ---
 
-## 📷 Manufacturing Process
-
-![Final Board](PCB_Manufacturing_Using_CNC_Router/plaket.jpg)
-
-- PCB layout screenshots
-- FlatCAM toolpath images
-- CNC machining process photos
-- Final PCB output
-
----
-
 ## 📊 Project Outcomes
 
 - Successfully produced functional PCB using CNC machining
